@@ -1,12 +1,12 @@
-### Hola soy Eugenia 👋
+### Hola! Soy Eugenia 👋
 Soy de Rosario, Argentina y soy Full stack MERN developer. 
 
 #### Tecnologías
-HTML5 | CSS3 | Javascript | Bootstrap
-React.js | Redux | Axios | React native
-Node.js | Express | Postman | Mongodb
-GitHub | Heroku | GoogleCloud
-Python
+* HTML5 | CSS3 | Javascript | Bootstrap
+* React.js | Redux | Axios | React native
+* Node.js | Express | Postman | Mongodb
+* GitHub | Heroku | GoogleCloud
+* Python
 
 #### Contacto
 Podés contartarme acá: eugeniarossanigo@gmail.com
