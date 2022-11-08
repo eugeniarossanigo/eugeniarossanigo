@@ -9,7 +9,7 @@ Soy de Rosario, Argentina y soy Full stack MERN developer.
 * Python
 
 #### Contacto
-Podés contartarme acá: eugeniarossanigo@gmail.com
+Podés contactarme acá: eugeniarossanigo@gmail.com
 o en https://linkedin.com/eugenia-rossanigo
 
 
