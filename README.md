@@ -1,16 +1,24 @@
-### Hola! Soy Eugenia 👋
-Soy de Rosario, Argentina y soy Full stack MERN developer. 
+### Hi! I'm Eugenia 👋
+Full-Stack Developer from Argentina. 
 
-#### Tecnologías
-* HTML5 | CSS3 | Javascript | Bootstrap
+<p align="left"><img src="https://komarev.com/ghpvc/?username=eugeniarossanigo&style=flat-square&color=56C596&style=flat" alt="eugeniarossanigo" /></p>
+
+#### 🔸 Contact me
+<a href="https://linkedin.com/in/eugeniarossanigo" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eugenia-linkedin" height="15" width="15" /> https://linkedin.com/in/eugeniarossanigo</a>
+<br/>
+📫  eugeniarossanigo@gmail.com
+
+#### 🔸 My Stack
+* HTML5 | CSS3 | Javascript
+* Bootstrap | Tailwind
 * React.js | Redux | Axios | React native
 * Node.js | Express | Postman | Mongodb
 * GitHub | Heroku | GoogleCloud
-* Python
+* Python | Web Scraping
 
-#### Contacto
-Podés contactarme acá: eugeniarossanigo@gmail.com
-o en https://linkedin.com/eugenia-rossanigo
+#### 🔸 Some Stats
+![Eugenia's GitHub stats](https://github-readme-stats.vercel.app/api?username=eugeniarossanigo&show_icons=true&theme=vue-dark)
+
 
 
 <!--
@@ -22,4 +30,6 @@ o en https://linkedin.com/eugenia-rossanigo
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eugeniarossanig&layout=compact)](https://github.com/eugeniarossanig/github-readme-stats)
 -->
+
