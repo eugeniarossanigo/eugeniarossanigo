@@ -2,9 +2,10 @@
 <p align="center">Full-Stack Developer from Argentina</p>
 
 #### 🔸 Contact me
-<a href="https://linkedin.com/in/eugeniarossanigo" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eugenia-linkedin" height="15" width="15" /> https://linkedin.com/in/eugeniarossanigo</a>
-<br/>
 📫  eugeniarossanigo@gmail.com
+
+<a href="https://linkedin.com/in/eugeniarossanigo" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eugenia-linkedin" height="15" width="15" /> https://linkedin.com/in/eugeniarossanigo</a>
+
 
 #### 🔸 My Stack
 * HTML5 | CSS3 | Javascript
@@ -16,4 +17,3 @@
 
 #### 🔸 Some Stats
 ![Eugenia's GitHub stats](https://github-readme-stats.vercel.app/api?username=eugeniarossanigo&show_icons=true&theme=dark)
-![Eugenia's GitHub stats](https://github-readme-stats.vercel.app/api?username=eugeniarossanigo&show_icons=true&theme=codeSTACKr)
