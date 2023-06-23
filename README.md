@@ -12,7 +12,7 @@
 * Bootstrap | Tailwind
 * React.js | Redux | Axios | React native
 * Node.js | Express | Postman | Mongodb
-* GitHub | Heroku | GoogleCloud
+* GitHub | Heroku
 * Python | Web Scraping
 
 #### 🔸 Some Stats
