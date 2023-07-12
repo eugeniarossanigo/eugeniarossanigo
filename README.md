@@ -1,9 +1,9 @@
 ### <h1 align="center">Hi! I'm Eugenia 👋</h1>
 <p align="center">Full-Stack Developer from Argentina</p>
 
-#### ✦🔸 Look at my
+#### ✦🔸 Look at
 
-🧩 [Portfolio](https://eugenia-rossanigo.web.app/)
+🧩 [My Portfolio](https://eugenia-rossanigo.web.app/)
 
 #### ✦🔸 Contact me
 📫 eugeniarossanigo@gmail.com
