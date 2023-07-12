@@ -1,10 +1,14 @@
 ### <h1 align="center">Hi! I'm Eugenia 👋</h1>
 <p align="center">Full-Stack Developer from Argentina</p>
 
-#### 🔸 Contact me
-📫  eugeniarossanigo@gmail.com
+#### ✦🔸 Look at my
 
-<a href="https://linkedin.com/in/eugeniarossanigo" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eugenia-linkedin" height="15" width="15" /> https://linkedin.com/in/eugeniarossanigo</a>
+🧩 [Portfolio](https://eugenia-rossanigo.web.app/)
+
+#### ✦🔸 Contact me
+📫 eugeniarossanigo@gmail.com
+
+➡️ [linkedin.com/in/eugeniarossanigo](https://linkedin.com/in/eugeniarossanigo)
 
 
 #### 🔸 My Stack
