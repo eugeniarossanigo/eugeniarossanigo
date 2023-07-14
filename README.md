@@ -1,11 +1,11 @@
 ### <h1 align="center">Hi! I'm Eugenia 👋</h1>
 <p align="center">Full-Stack Developer from Argentina</p>
 
-#### ✦🔸 Look at
+#### 🔸 Look at
 
 🧩 [My Portfolio](https://eugenia-rossanigo.web.app/)
 
-#### ✦🔸 Contact me
+#### 🔸 Contact me
 📫 eugeniarossanigo@gmail.com
 
 ➡️ [linkedin.com/in/eugeniarossanigo](https://linkedin.com/in/eugeniarossanigo)
@@ -15,7 +15,7 @@
 * HTML5 | CSS3 | Javascript
 * Bootstrap | Tailwind
 * React.js | Redux | Axios | React native
-* Node.js | Express | Postman | Mongodb
+* Node.js | Express | Postman | MongoDB
 * GitHub | Heroku
 * Python | Web Scraping
 
